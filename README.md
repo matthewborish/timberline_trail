@@ -66,6 +66,13 @@ By utilizing these tools, hikers and runners can:
 - Color-coded Timberline Trail shapefile
 - Bokeh elevation profile (HTML)
 - Styled DataFrame with trail segment information
+  
+![timberline_trail](https://github.com/user-attachments/assets/9b54804c-e096-4d50-b395-176c288a61cb)
+
+![timberline_trail_elevation_profile](https://github.com/user-attachments/assets/459e8499-6a50-47aa-ab26-562742838c7c)
+
+![timberline_trail_styled_df](https://github.com/user-attachments/assets/370fe765-504c-47bd-b3a9-bba570a96b31)
+
 
 ## Data Sources
 - DEMs downloaded from [Oregon Department of Geology and Mineral Industries](https://pubs.oregon.gov/dogami/ldq/p-LDQ.htm)
